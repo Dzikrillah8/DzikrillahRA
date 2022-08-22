@@ -1,0 +1,14 @@
+.judul {
+    color:rgb(240, 45, 165) ;
+    font-size: 76px ;
+    font-family: papyrus ;
+    background-color: aquamarine;
+}
+
+.gambar {
+    width: 200px;
+}
+
+.link:hover {
+    color: rgb(212, 33, 102);
+}
